@@ -1,0 +1,34 @@
+.nav-div {
+    background-color: transparent;
+    display: flex;
+    height: 20vh;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+.ul-div {
+    color: white;
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    gap: 70px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+.ul-div li button{
+    background-color: transparent;
+    border-color: white;
+    width: 170px;
+    height: 50px;
+    border-style: solid;
+    border-radius: 6px;
+    color: white;}
+    .nav-pix {
+        padding-left: 25px;
+        margin-top: 20px;
+    }

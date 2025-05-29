@@ -1,0 +1,45 @@
+.hero-section{
+background-image: url("./images/header-hero.jpg");
+height: 100vh;
+background-position: center;
+background-size: cover;
+align-content: center;
+justify-items: center;
+color: white;
+    }
+    .hero-section h4 {
+        font-size: 50px;
+    }
+    .hero-section h2 {
+        font-size: 100px;
+        font-weight: lighter;
+        margin-top: -20px;
+        margin-bottom: 10px;
+    }
+    .hero-section p{
+        font-size: x-large;
+        width: 20%;
+        text-align: center;
+        display: flex;
+        font-size: medium;
+        font-weight: bolder;
+    }
+    .hero-section button{
+border-style: solid;
+border-radius: 4px;
+background-color: rgba(235, 186, 11, 0.904);
+border-color: transparent;
+width: 180px;
+height: 50px;
+margin-top: 30px;
+cursor: pointer;
+    }
+    .hero-section button:hover{
+        background-color: red;
+        color: white;
+    }
+    .africa-one {
+        color: red;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: xx-large;
+    }
