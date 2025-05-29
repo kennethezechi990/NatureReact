@@ -14,6 +14,7 @@ function App() {
         <Navbar/>
         <Hero/>
         <h1 className='africa-one'>Hello Africa</h1>
+        <h2>My name is kenneth</h2>
       </div>  
     </>
   )
