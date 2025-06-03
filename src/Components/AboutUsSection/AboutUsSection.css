@@ -1,0 +1,39 @@
+.about-us-section {
+  display: flex;
+  align-items: center;
+  padding: 80px;
+  color: rgb(82, 117, 82);
+  gap: 50px;
+  margin-top: 15px;
+}
+.about-us-section div:first-child h3 {
+  margin-bottom: 20px;
+  font-weight: lighter;
+  font-size: 12px;
+}
+.about-us-section div:first-child h4 {
+  font-size: 30px;
+  font-weight: lighter;
+  width: 50%;
+}
+.about-us-section div:first-child p {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 60%;
+  line-height: 25px;
+}
+.about-us-section div:first-child button {
+  color: rgb(96, 117, 96);
+  border-color: rgb(63, 159, 63);
+  width: 180px;
+  height: 50px;
+  background-color: transparent;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 1px;
+  cursor: pointer;
+}
+.about-us-section div:first-child button:hover {
+  color: rgb(63, 159, 63);
+  border-color: rgb(63, 159, 63);
+}

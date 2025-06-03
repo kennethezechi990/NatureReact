@@ -1,0 +1,51 @@
+.p-sec {
+  color: darkolivegreen;
+  display: flex;
+  align-items: center;
+  height: 30vh;
+  justify-content: center;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+.line-one {
+  justify-self: center;
+  border-top-style: solid;
+  width: 90px;
+  color: rgb(251, 227, 48);
+  margin-top: -40px;
+  margin-bottom: 60px;
+  border-width: 3px;
+}
+
+.pix-chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  /* margin-top: auto;
+        margin-bottom: auto; */
+  margin-left: 90px;
+  margin-right: 50px;
+}
+.pics-div img {
+  height: 90%;
+  width: 90%;
+}
+
+.pix-chart h2 {
+  font-family: sans-serif;
+  font-size: 20px;
+  margin-top: 25px;
+  font-weight: 50px;
+}
+
+.pix-chart p {
+  text-align: justify;
+  width: 75%;
+  margin-top: 15px;
+  font-weight: lighter;
+}
+.far-car {
+  color: rgb(235, 35, 21);
+  font-size: 70px;
+}
